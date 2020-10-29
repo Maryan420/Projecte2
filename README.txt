@@ -15,3 +15,5 @@ v1.6 - Funcionalitat registre i consulta productes finalitzada
 v1.7 - Aplicat filtratge, per nom, ordre alfabètic, etc
 v2.0 - Versió final, correcte funcionament, funcionalitat completa amb php
 v2.1 - Versió final, correcte funcionament, funcionalitat completa amb php i css acabat
+v2.2 - Versió final, correcte funcionament, funcionalitat completa amb php, css acabat i documentació dins el codi
+v2.2 - Versió final, correcte funcionament, funcionalitat completa amb php, css acabat , documentació dins el codi i buscador dins la pagina web
